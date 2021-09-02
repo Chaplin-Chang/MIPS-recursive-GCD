@@ -1,0 +1,2 @@
+# MIPS-recursive-GCD
+Write a MIPS recursive program that computes the greatest common divisor of two given positive integers. The MIPS instruction has a different thinking structure. The C++ implementation of GCD can be calculated through the recursive method. This project implements the GCD through the MIPS instruction, more in-depth CPU planning, and design and uses the least temporary storage space to implement various instructions.
